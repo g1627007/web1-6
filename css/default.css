@@ -20,3 +20,40 @@ body{
   clear: both;
   display: block;
 }
+
+.exolanation{
+  float: left;
+}
+
+dt{
+  clear: left;
+  float: left;
+  width: 428px;
+  font-weight: bold;
+}
+
+.btn{
+  -webkit-appearance: none;
+  margin 5px;
+  width: 100px;
+  height: 40px;
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+}
+
+.btn:hover{
+  opacity: 0.7;
+}
+
+.btn:active{
+  color: silver;
+}
+
+.btn-submit{
+  background-color: blue;
+}
+
+.byn-reset{
+  background-color: orange;
+}
