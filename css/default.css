@@ -63,8 +63,20 @@ dt{
 
 #ingredien{
   border: 2px solid lightcoral;
+  border-collapse: collapse;
 }
 
-th, td{
+th{
   border: 1px solid lightcoral;
+  background-color: mystrose;
+  padding: 5px;
+  width: 100px;
+  text-align: center;
+}
+
+td{
+  border: 1px solid lightcoral;
+  padding: 5px;
+  width: 100px;
+  text-align: right;
 }
