@@ -17,6 +17,7 @@ body{
 
 .cat_picture:aftre{
   content: "";
+  clear: both;
   display: block;
 }
 
