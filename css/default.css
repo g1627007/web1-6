@@ -34,6 +34,7 @@ dt{
 
 .btn{
   -webkit-appearance: none;
+  -webkit-border-radius: 0;
   margin 5px;
   width: 100px;
   height: 40px;
@@ -47,13 +48,13 @@ dt{
 }
 
 .btn:active{
-  color: silver;
+  color: white;
 }
 
 .btn-submit{
-  background-color: blue;
+  background-color: silver;
 }
 
 .byn-reset{
-  background-color: orange;
+  background-color: #A9F5F2;
 }
