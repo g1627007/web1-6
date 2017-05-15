@@ -15,12 +15,6 @@ body{
   margin-right: 30px;
 }
 
-.cat_picture:aftre{
-  content: "";
-  clear: both;
-  display: block;
-}
-
 .explanation{
   float: left;
   width: 468;
