@@ -3,7 +3,7 @@ body{
 }
 
 #main{
-  width: 798;
+  width: 798px;
   margin: 40px auto;
   padding: 40px 80px;
   border: green 1px solid;
@@ -17,7 +17,7 @@ body{
 
 .explanation{
   float: left;
-  width: 468;
+  width: 468px;
 }
 
 .cat_picture:after{
@@ -36,7 +36,7 @@ dt{
 .btn{
   -webkit-appearance: none;
   -webkit-border-radius: 0;
-  margin 5px;
+  margin: 5px;
   width: 100px;
   height: 40px;
   padding: 10px;
@@ -72,7 +72,7 @@ th, td{
 
 th{
   border: 1px solid lightcoral;
-  background-color: mystrose;
+  background-color: mistyrose;
   padding: 5px;
   width: 100px;
   text-align: center;
