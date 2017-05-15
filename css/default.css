@@ -3,7 +3,9 @@ body{
 }
 
 #main{
-  padding:40px 80px;
+  width: 960;
+  margin: 40px auto;
+  padding: 40px 80px;
   border: green 1px solid;
-  background-color:white;
+  background-color: white;
 }
