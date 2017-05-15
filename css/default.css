@@ -23,12 +23,12 @@ body{
 
 .explanation{
   float: left;
+  width: 468;
 }
 
 dt{
   clear: left;
   float: left;
-  width: 428px;
   font-weight: bold;
 }
 
