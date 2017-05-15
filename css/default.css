@@ -20,6 +20,12 @@ body{
   width: 468;
 }
 
+.cat_picture:after{
+  content: "";
+  clear: both;
+  display: block;
+}
+
 dt{
   clear: left;
   float: left;
